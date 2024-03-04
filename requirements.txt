@@ -1,0 +1,7 @@
+streamlit==1.30.0
+pandas==2.1.4
+openai==1.8.0
+tiktoken== 0.5.2
+scikit-learn==1.4.0
+matplotlib==3.8.2
+seaborn==0.13.1
