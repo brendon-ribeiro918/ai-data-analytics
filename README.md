@@ -15,4 +15,8 @@ To get started, follow these simple steps:<br/>
 
 - Table Creation and Saving as CSV to Your Query: For tables, explicitly add "save as CSV to your query" to generate the table and save it as a CSV file. 💻
 
+You can review this AI app through this video.
+https://drive.google.com/file/d/12yvrFOfYhzKmVxLn_mEN3d8uFx6xg036/view?usp=sharing
+
 Powered by GPT-4: Please be patient, as our app powered by GPT-4 may take some time to generate comprehensive analysis results. ⌛
+
