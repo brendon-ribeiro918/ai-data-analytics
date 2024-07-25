@@ -15,7 +15,7 @@ import sys
 import site
 os.environ["PYTHONPATH"] = os.path.pathsep.join(site.getsitepackages())
 
-
+## plot chart and table ##
 ###############################################################################################################
 st.title("🚀 Streamlit Financial Analyzer 📊")
 st.sidebar.title("About this app")
